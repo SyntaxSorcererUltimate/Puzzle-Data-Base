@@ -1,0 +1,18 @@
+[Event "Tactics in 1 Move Beginner Puzzle Set: Puzzle #1 Rook Checkmate"]
+[Site "https://lichess.org/study/mHzUUezH/7FKoidJK"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/XChessChoice20"]
+[StudyName "Tactics in 1 Move Beginner Puzzle Set"]
+[ChapterName "Puzzle #1 Rook Checkmate"]
+[FEN "1k6/ppp5/8/8/8/P7/1PP5/1K2R3 b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.02.14"]
+[UTCTime "14:56:14"]
+[ChapterMode "gamebook"]
+
+1... Ka8?? 2. Re8# *
+
+
